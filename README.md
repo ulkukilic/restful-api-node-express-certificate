@@ -1,57 +1,71 @@
-# Building RESTful APIs with Node.js and Express – Certificate
+# ✨ Backend Development Certificates
 
-This repository contains my course certificate for successfully completing the **Building RESTful APIs with Node.js and Express** program on Coursera.
-
----
-
-## 📄 Certificate
-![Certificate](./certificate.png)
+This repository showcases my completed backend development courses in Node.js and Express.js, focusing on RESTful API development, server-side programming, and database integration.
 
 ---
 
-## 🎓 Course Information
-- **Course Name:** Building RESTful APIs with Node.js and Express  
+## 📜 Certificates
+
+### 1. Building RESTful APIs with Node.js and Express
+![Certificate](./LMB2VST6S432.png)
+
 - **Platform:** Coursera  
 - **Provider:** Board Infinity  
-- **Completed By:** ULKU KILIC  
+- **Completed By:** Ülkü Kılıç  
 - **Completion Date:** April 24, 2026  
 - **Duration:** ~13 hours  
 - **Grade:** 94%  
-- **Verification:** Account verified by Coursera  
+
+🔗 Focus: REST API development, Node.js backend architecture, MongoDB integration
 
 ---
 
-## 📚 What I Learned
-- Setting up Node.js and Express applications  
-- Creating servers and handling HTTP requests/responses  
-- Using middleware for request processing  
-- Building RESTful APIs following best practices  
-- Connecting Node.js with MongoDB  
-- Performing CRUD operations with NoSQL databases  
-- Writing asynchronous code and handling errors  
-- Structuring scalable and maintainable backend applications  
-- Applying basic security practices  
-- Introduction to automated testing  
+### 2.  Express.js
+![Express.js Certificate](./79JZNO5O1LMH.png)
+
+- **Platform:** Coursera  
+- **Provider:** Scrimba  
+- **Completed By:** Ülkü Kılıç  
+- **Completion Date:** May 4, 2026  
+- **Grade:** 90%  
+- **Verification:** https://coursera.org/verify/79JZNO5O1LMH  
+
+🔗 Focus: Express.js fundamentals, routing, middleware, API structure
 
 ---
 
-## 🛠 Skills Gained
-- Node.js  
-- Express.js  
-- MongoDB  
-- REST API Development  
-- Middleware  
-- Event-Driven Programming  
-- Secure Coding  
-- Backend Architecture  
-- Database Management  
+## 🛠️ Skills & Technologies
+
+### Backend Development
+- Node.js
+- Express.js
+
+### API Development
+- RESTful API Design
+- CRUD Operations
+- Routing & Middleware
+- Error Handling
+
+### Database
+- MongoDB
+- NoSQL Data Modeling
+- Basic Database Integration
+
+### Software Engineering
+- Modular Backend Architecture
+- Secure Coding Practices
+- Asynchronous Programming
 
 ---
 
-## 📌 About the Course
-This course focuses on building modern backend applications using **Node.js** and **Express**, with integration of **MongoDB**. It covers both fundamental and advanced concepts required to develop scalable, secure, and production-ready APIs.
+## ✨ Key Learnings
 
----
+- Building scalable backend applications using Node.js and Express.js  
+- Creating and managing RESTful APIs  
+- Handling HTTP requests and responses efficiently  
+- Using middleware for request processing and validation  
+- Connecting backend applications with MongoDB  
+- Structuring clean and maintainable server-side code  
+- Managing errors and undefined routes properly  
+- Understanding backend architecture principles  
 
-## 🔗 Certificate Source
-Issued by **Board Infinity** and delivered through **Coursera**.
